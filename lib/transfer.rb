@@ -9,8 +9,5 @@ class Transfer
     @status = "pending"
   end
 
-  def
-
-  end
 
 end
